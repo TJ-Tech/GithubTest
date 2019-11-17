@@ -1,6 +1,6 @@
 package Day33.company;
 
-public class Main {
+public class TestingSetting {
 
     public static void main(String[] args) {
 	// write your code here
